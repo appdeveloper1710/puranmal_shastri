@@ -396,7 +396,7 @@
 
 .header-carousel .owl-nav .owl-prev:hover,
 .header-carousel .owl-nav .owl-next:hover {
-    box-shadow: inset 150px 0 0 0 var(--bs-light) !important;
+    box-shadow: inset 150px 0 0 0 var(--bs-primary) !important;
     color: var(--bs-white) !important;
 }
 
@@ -509,7 +509,7 @@
 
 .service .service-item:hover .service-img::before {
     height: 100%;
-    background: rgba(255, 193, 7, .3);
+    background: rgba(38,123,178, .3);
 }
 
 .service .service-item .service-img:hover img {
@@ -531,13 +531,13 @@
     left: 0;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
-    background: rgba(255, 193, 7, .5);
+    background: rgba(38,123,178, .5);
     transition: 0.5s;
     z-index: 3;
 }
 
 .service .service-item:hover .service-content::before {
-    background: rgba(255, 193, 7, .5);
+    background: rgba(38,123,178, .5);
     height: 100%;
 }
 
@@ -803,7 +803,7 @@
 }
 
 .team .team-item:hover .team-img::before {
-    background: rgba(255, 193, 7, .3);
+    background: rgba(38,123,178, .3);
 }
 
 .team .team-item .team-content {
@@ -829,7 +829,7 @@
 
 /*** testimonial Start ***/
 .testimonial {
-    background: linear-gradient(rgba(255, 193, 7, 0.9), rgba(255, 193, 7, 0.9)), url(../img/bg.jpg);
+    background: linear-gradient(rgba(38,123,178, 0.9), rgba(38,123,178, 0.9)), url(../img/bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1070,7 +1070,7 @@
 }
 
 .blog .blog-item:hover .blog-img::after {
-    background: rgba(255, 193, 7, .5);
+    background: rgba(38,123,178, .5);
 }
 
 .blog .blog-item .blog-centent {
@@ -1085,7 +1085,7 @@
 
 /*** Contact Start ***/
 .contact {
-    background: linear-gradient(rgba(255, 193, 7, 0.9), rgba(255, 193, 7, 0.9)), url(../img/bg.jpg);
+    background: linear-gradient(rgba(38,123,178, 0.9), rgba(38,123,178, 0.9)), url(../img/bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
